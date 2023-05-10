@@ -1,3 +1,3 @@
 # docker-example
 
-- using server.js
+- simple server.js file
